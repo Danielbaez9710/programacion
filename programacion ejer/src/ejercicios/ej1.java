@@ -30,10 +30,7 @@ public class ej1 {
 		def=(nq+nt+ne+np);
 		System.out.println("definitiva:");
 		System.out.println(def);
-		System.out.println(nq);
-		System.out.println(nt);
-		System.out.println(ne);
-		System.out.println(np);
+		
 		
 
 	}
